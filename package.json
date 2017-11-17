@@ -1,0 +1,20 @@
+{
+  "name": "opensourceadam",
+  "version": "1.0.0",
+  "description": "react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot", "test": "console.print('hello world')"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git-download": "0.0.2",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-native-environment": "0.0.2",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  },
+  "devDependencies": {}
+}
